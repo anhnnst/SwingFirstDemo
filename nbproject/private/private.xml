@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/ManageBook.java</file>
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/ui/MainForm.java</file>
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/model/Category.java</file>
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/db/DatabaseUtils.java</file>
@@ -11,6 +12,7 @@
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/DataDemo.java</file>
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/ui/SearchProductPanel.java</file>
             <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/dao/CategoryDao.java</file>
+            <file>file:/E:/Demonstration/PolyJava3_2018/SwingFirstDemo/src/edu/poly/UpdateDataDemo.java</file>
         </group>
     </open-files>
 </project-private>
